@@ -1,0 +1,7 @@
+set_data = set([1, 1, 2, 3, "Agus", 5, 8, 13, "Rafilia", 21, 34, 55, 89, "Tini"])
+set_data.remove("Tini")
+set_data.add("Fatimah")
+set_data.remove(55)
+set_data.add("Hasan")
+set_data.add("Niken")
+print('data set menjadi :', set_data)
